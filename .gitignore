@@ -1,0 +1,13 @@
+# Entorno virtual, NUNCA SUBAS ESTO
+venv/
+__pycache__/
+*.pyc
+
+# Archivos locales de Django
+db.sqlite3
+*.log
+local_settings.py
+
+# Archivos de editor
+.vscode/
+.idea/
